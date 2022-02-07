@@ -1,0 +1,22 @@
+#wrapper{
+    text-align: center;
+    font-size: x-large;
+
+}
+#add{
+    padding: 10px;
+    color: white;
+    background-color: blue;
+    font-size: x-large;
+    border: solid 2px lightblue;
+}
+#output{
+    padding-left: 50px;
+    padding-top: 40px;
+}
+#table th{
+    padding:50px;
+}
+#product{
+    padding-right: 40px;
+}
